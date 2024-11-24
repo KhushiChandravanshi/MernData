@@ -1,0 +1,40 @@
+db.categoryType.insert([
+    {
+        "categoryType_id": 1,
+        "categoryType": "Tops",
+        "content": "Tops That Define Your Style!",
+        "categoryType_image": "https://i.ibb.co/8PGwMSB/top.jpg"
+    },
+    {
+        "categoryType_id": 2,
+        "categoryType": "Lahenga",
+        "content": "Stay Stylish with Our Lehenga",
+        "categoryType_image": "https://i.ibb.co/zHqKtBy/lahenga.jpg"
+    },
+    {
+        "categoryType_id": 3,
+        "categoryType": "Shirt",
+        "content": "Stay Stylish with Our Shirt",
+        "categoryType_image": "https://i.ibb.co/1b3fScn/shirt.jpg"
+    },
+    {
+        "categoryType_id": 4,
+        "categoryType": "Jumpsuit",
+        "content": "Stay Stylish with Our Jumpsuits",
+        "categoryType_image": "https://i.ibb.co/1604K7C/jumpsuit.jpg"
+    },
+    {
+        "categoryType_id": 5,
+        "categoryType": "T-shirt",
+        "content": "Stay Stylish with Our T-shirt",
+        "categoryType_image": "https://i.ibb.co/1zCtXZQ/t-shirt.jpg"
+    },
+    {
+        "categoryType_id": 6,
+        "categoryType": "Sarees",
+        "content": "Stay Stylish with Our sarees",
+        "categoryType_image": "https://i.ibb.co/T4y1kg3/pinksaree.jpg"
+    }
+
+]
+)

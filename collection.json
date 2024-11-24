@@ -1,0 +1,70 @@
+db.sizes.insert(
+[
+    {
+        "collection_id": 1,
+        "collection_name": "Top",
+        "fabric_id":1,
+        "fabric":"crepe",
+        "subcategory": "Women's Clothing",
+        "description": "Stylish and trendy tops for women",
+        "available_sizes": ["S", "M", "L", "XL"],
+        "available_colors": ["Red", "Blue", "Black", "White"],
+        "country_of_origin": "India"
+    },
+    {
+        "collection_id": 2,
+        "collection_name": "T-shirt",
+        "fabric_id":2,
+        "fabric":"denim",
+        "subcategory": "Women's Clothing",
+        "description": "Stylish and trendy t-shirts for women",
+        "available_sizes": ["S", "M", "L", "XL"],
+        "available_colors": ["Red", "Blue", "Black", "White"],
+        "country_of_origin": "India"
+    },
+    {
+        "collection_id": 3,
+        "collection_name": "Shirt",
+        "fabric_id":3,
+        "fabric":"cotton",
+        "subcategory": "Women's Clothing",
+        "description": "Stylish and trendy shirts for women",
+        "available_sizes": ["S", "M", "L", "XL"],
+        "available_colors": ["Red", "Blue", "Black", "White"],
+        "country_of_origin": "India"
+    },
+    {
+        "collection_id": 4,
+        "collection_name": "saree",
+        "fabric_id":4,
+        "fabric":"shifon",
+        "subcategory": "Women's Clothing",
+        "description": "Stylish and trendy shoes for women",
+        "available_sizes": ["S", "M", "L", "XL"],
+        "available_colors": ["Red", "Blue", "Black", "White"],
+        "country_of_origin": "India"
+    },
+    {
+        "collection_id": 5,
+        "collection_name": "Jumpsuit",
+        "fabric_id":5,
+        "fabric":"hosiary",
+        "subcategory": "Women's Clothing",
+        "description": "Stylish and trendy jumpsuits for women",
+        "available_sizes": ["S", "M", "L", "XL"],
+        "available_colors": ["Red", "Blue", "Black", "White"],
+        "country_of_origin": "India"
+    },
+    {
+        "collection_id": 6,
+        "collection_name": "Fancy Gown",
+        "fabric_id":6,
+        "fabric":"cotton",
+        "subcategory": "Women's Clothing",
+        "description": "Stylish and trendy fancy gowns for women",
+        "available_sizes": ["S", "M", "L", "XL"],
+        "available_colors": ["Red", "Blue", "Black", "White"],
+        "country_of_origin": "India"
+    }
+                    
+])

@@ -1,0 +1,230 @@
+db.product.insert([
+    {
+      "product_id": 1,
+      "product_name": "Top",
+      "collection_id": 1,
+      "fabric_id": 1,
+      "description": "Royalty Redefined in Exquisite Top",
+      "category_thumb": "https://i.ibb.co/YPpywG1/top.jpg",
+      "average_rating": 4.2,
+      "rating_text": "Very Good",
+      "cost": 666,
+      "contact_number": 9453524651,
+      "category": [
+        {
+          "categoryType_id": 1,
+          "categoryType_name": "Adidas"
+        },
+        {
+          "categoryType_id": 2,
+          "categoryType_name": "Sabyasachi Mukherjee"
+        }
+      ],
+      "Occasion": [
+        {
+          "Occasion_id": 1,
+          "Occasion_name": "Casual"
+        },
+        {
+          "Occasion_id": 4,
+          "Occasion_name": "Party"
+        }
+      ],
+      "image_gallery": [
+        "https://i.ibb.co/4dx6y05/topp.jpg",
+        "https://i.ibb.co/xG8cFwt/t.jpg",
+        "https://i.ibb.co/HCfgW9Z/t.jpg",
+        "https://i.ibb.co/X3sSctf/topppp.jpg"
+      ]
+    },
+    {
+      "product_id": 2,
+      "product_name": "Lahenga",
+      "collection_id": 2,
+      "fabric_id": 1,
+      "description": "Step into Tradition with Modern Flair",
+      "category_thumb": "https://i.ibb.co/dWdsCQV/l.jpg",
+      "average_rating": 4.2,
+      "rating_text": "Very Good",
+      "cost": 666,
+      "contact_number": 9453524651,
+      "category": [
+        {
+          "categoryType_id": 1,
+          "categoryType_name": "Lahanga"
+        },
+        {
+          "categoryType_id": 3,
+          "categoryType_name": "top"
+        }
+      ],
+      "Occasion": [
+        {
+          "Occasion_id": 1,
+          "Occasion_name": "Casual"
+        },
+        {
+          "Occasion_id": 5,
+          "Occasion_name": "Party"
+        }
+      ],
+      "image_gallery": [
+        "https://i.ibb.co/XtXj16f/l1.jpg",
+        "https://i.ibb.co/D1hNj46/l.jpg",
+        "https://i.ibb.co/hHkcRmY/l3.jpg",
+        "https://i.ibb.co/gSTwHP8/l4.jpg"
+      ]
+    },
+    {
+      "product_id": 3,
+      "product_name": "Shirt",
+      "collection_id": 12,
+      "fabric_id": 2,
+      "description": "Step into Tradition with Modern Flair",
+      "category_thumb": "https://i.ibb.co/n3DcNRX/shirt.jpg",
+      "average_rating": 4.2,
+      "rating_text": "Very Good",
+      "cost": 666,
+      "contact_number": 9453524651,
+      "category": [
+        {
+          "categoryType_id": 2,
+          "categoryType_name": "Lahanga"
+        },
+        {
+          "categoryType_id": 3,
+          "categoryType_name": "top"
+        }
+      ],
+      "Occasion": [
+        {
+          "Occasion_id": 1,
+          "Occasion_name": "Casual"
+        },
+        {
+          "Occasion_id": 4,
+          "Occasion_name": "Party"
+        }
+      ],
+      "image_gallery": [
+        "https://i.ibb.co/MDcRgtM/shirts.jpg",
+        "https://i.ibb.co/s19NRNK/shirtss.jpg",
+        "https://i.ibb.co/crW10DT/sh.jpg",
+        "https://i.ibb.co/s5cWQW1/shirt.jpg"
+      ]
+    },
+    {
+      "product_id": 4,
+      "product_name": "Jumpsuit",
+      "collection_id": 2,
+      "fabric_id": 1,
+      "description": "Step into Tradition with Modern Flair",
+      "category_thumb": "https://i.ibb.co/wcQH2fJ/jump.jpg",
+      "average_rating": 4.2,
+      "rating_text": "Very Good",
+      "cost": 666,
+      "contact_number": 9453524651,
+      "category": [
+        {
+          "categoryType_id": 1,
+          "categoryType_name": "Lahanga"
+        },
+        {
+          "categoryType_id": 2,
+          "categoryType_name": "top"
+        }
+      ],
+      "Occasion": [
+        {
+          "Occasion_id": 3,
+          "Occasion_name": "Casual"
+        },
+        {
+          "Occasion_id": 5,
+          "Occasion_name": "Party"
+        }
+      ],
+      "image_gallery": [
+        "https://i.ibb.co/bK5djVQ/j.jpg",
+        "https://i.ibb.co/pw18sYB/jumpsuit.jpg",
+        "https://i.ibb.co/Ph5PW2p/jum.jpg",
+        "https://i.ibb.co/LpmLWFg/jjj.jpg"
+      ]
+    },
+    {
+      "product_id": 5,
+      "product_name": "T-shirt",
+      "collection_id": 2,
+      "fabric_id": 1,
+      "description": "Step into Tradition with Modern Flair",
+      "category_thumb": "https://i.ibb.co/28GjWd3/red.jpg",
+      "average_rating": 4.2,
+      "rating_text": "Very Good",
+      "cost": 666,
+      "contact_number": 9453524651,
+      "category": [
+        {
+          "categoryType_id": 1,
+          "categoryType_name": "Lahanga"
+        },
+        {
+          "categoryType_id": 2,
+          "categoryType_name": "top"
+        }
+      ],
+      "Occasion": [
+        {
+          "Occasion_id": 6,
+          "Occasion_name": "Casual"
+        },
+        {
+          "Occasion_id": 4,
+          "Occasion_name": "Party"
+        }
+      ],
+      "image_gallery": [
+        "https://i.ibb.co/b5DrcSN/tshirt.jpg",
+        "https://i.ibb.co/SnbNzHK/t-s.jpg",
+        "https://i.ibb.co/N1DXkVQ/t.jpg",
+        "https://i.ibb.co/MkFLJBW/tttt.jpg"
+      ]
+    },
+    {
+      "product_id": 6,
+      "product_name": "Saree",
+      "collection_id": 2,
+      "fabric_id": 1,
+      "description": "Step into Tradition with Modern Flair",
+      "category_thumb": "https://i.ibb.co/5YXnB05/saree.jpg",
+      "average_rating": 4.2,
+      "rating_text": "Very Good",
+      "cost": 666,
+      "contact_number": 9453524651,
+      "category": [
+        {
+          "categoryType_id": 1,
+          "categoryType_name": "Lahanga"
+        },
+        {
+          "categoryType_id": 2,
+          "categoryType_name": "top"
+        }
+      ],
+      "Occasion": [
+        {
+          "Occasion_id": 1,
+          "Occasion_name": "Casual"
+        },
+        {
+          "Occasion_id": 4,
+          "Occasion_name": "Party"
+        }
+      ],
+      "image_gallery": [
+        "https://i.ibb.co/JsTw3N1/sa.jpg",
+        "https://i.ibb.co/Hnx5qSV/ss.jpg",
+        "https://i.ibb.co/fFfGh9j/saare.jpg",
+        "https://i.ibb.co/5FpqM5s/s.jpg"
+      ]
+    }
+  ])

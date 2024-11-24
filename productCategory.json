@@ -1,0 +1,371 @@
+db.productCategory.insert([
+    {
+        "category_id":1,
+        "category_name": "Self Design Semi Stitched Lehenga Choli  (Dark Green)",
+        "description": "Transform Your Wardrobe, Transform Your Life",
+        "product_id": 1,
+        "category_image": "https://i.ibb.co/FwjDJXk/l.jpg",
+        "category_type": "Women's Attire",
+        "category_price": "499"
+    },
+    {
+        "category_id":2,
+        "category_name": "Embroidered Semi Stitched Lehenga Choli  (Pink)",
+        "description": "Discover Your Signature Look Today!",
+        "product_id": 1,
+        "category_image": "https://i.ibb.co/CMqCtS6/dark-blue-lehenga.jpg",
+        "category_type": "Women's Outfits",
+        "category_price": "699"
+    },
+    {
+        "category_id":3,
+        "category_name": "Embroidered Semi Stitched Lehenga Choli  (Pink)",
+        "description": "Discover Your Signature Look Today!",
+        "product_id": 1,
+        "category_image": "https://i.ibb.co/MVGhNXj/lahenga.jpg",
+        "category_type": "Women's Outfits",
+        "category_price": "699"
+    },
+    {
+        "category_id":4,
+        "category_name": "Embroidered Semi Stitched Lehenga Choli  (Pink)",
+        "description": "Discover Your Signature Look Today!",
+        "product_id": 1,
+        "category_image": "https://i.ibb.co/VSdkMR3/s.jpg",
+        "category_type": "Women's Outfits",
+        "category_price": "699"
+    },
+    {
+        "category_id":5,
+        "category_name": "Embroidered Semi Stitched Lehenga Choli  (Pink)",
+        "description": "Discover Your Signature Look Today!",
+        "product_id": 1,
+        "category_image": "https://i.ibb.co/18Q7z1m/lahenga1.jpg",
+        "category_type": "Women's Outfits",
+        "category_price": "699"
+    },
+    {
+        "category_id":6,
+        "category_name": "Embroidered Semi Stitched Lehenga Choli  (Pink)",
+        "description": "Discover Your Signature Look Today!",
+        "product_id": 2,
+        "category_image": "https://i.ibb.co/VSdkMR3/s.jpg",
+        "category_type": "Women's Outfits",
+        "category_price": "699"
+    },
+    {
+        "category_id":7,
+        "category_name": "Embroidered Semi Stitched Lehenga Choli  (Pink)",
+        "description": "Discover Your Signature Look Today!",
+        "product_id": 2,
+        "category_image": "https://i.ibb.co/31Vk4sW/lahenga.jpg",
+        "category_type": "Women's Outfits",
+        "category_price": "699"
+    },
+    {
+        "category_id":8,
+        "category_name": "Embroidered Semi Stitched Lehenga Choli  (Pink)",
+        "description": "Discover Your Signature Look Today!",
+        "product_id": 2,
+        "category_image": "https://i.ibb.co/CMqCtS6/dark-blue-lehenga.jpg",
+        "category_type": "Women's Outfits",
+        "category_price": "699"
+    },
+    {
+        "category_id":9,
+        "category_name": "Embroidered Semi Stitched Lehenga Choli  (Pink)",
+        "description": "Discover Your Signature Look Today!",
+        "product_id": 2,
+        "category_image": "https://i.ibb.co/31Vk4sW/lahenga.jpg",
+        "category_type": "Women's Outfits",
+        "category_price": "699"
+    },
+    {
+        "category_id":10,
+        "category_name": "Embroidered Semi Stitched Lehenga Choli  (Pink)",
+        "description": "Discover Your Signature Look Today!",
+        "product_id": 2,
+        "category_image": "https://i.ibb.co/18Q7z1m/lahenga1.jpg",
+        "category_type": "Women's Outfits",
+        "category_price": "699"
+    },
+    {
+        "category_id":11,
+        "category_name": "Embroidered Semi Stitched Lehenga Choli  (Pink)",
+        "description": "Discover Your Signature Look Today!",
+        "product_id": 3,
+        "category_image": "https://i.ibb.co/18Q7z1m/lahenga1.jpg",
+        "category_type": "Women's Outfits",
+        "category_price": "699"
+    },
+    {
+        "category_id":12,
+        "category_name": "Embroidered Semi Stitched Lehenga Choli  (Pink)",
+        "description": "Discover Your Signature Look Today!",
+        "product_id": 3,
+        "category_image": "https://i.ibb.co/18Q7z1m/lahenga1.jpg",
+        "category_type": "Women's Outfits",
+        "category_price": "699"
+    },
+    {
+        "category_id":13,
+        "category_name": "Embroidered Semi Stitched Lehenga Choli  (Pink)",
+        "description": "Discover Your Signature Look Today!",
+        "product_id": 3,
+        "category_image": "https://i.ibb.co/31Vk4sW/lahenga.jpg",
+        "category_type": "Women's Outfits",
+        "category_price": "699"
+    },
+    {
+        "category_id":14,
+        "category_name": "Embroidered Semi Stitched Lehenga Choli  (Pink)",
+        "description": "Discover Your Signature Look Today!",
+        "product_id": 3,
+        "category_image": "https://i.ibb.co/18Q7z1m/lahenga1.jpg",
+        "category_type": "Women's Outfits",
+        "category_price": "699"
+    },
+    {
+        "category_id":15,
+        "category_name": "Embroidered Semi Stitched Lehenga Choli  (Pink)",
+        "description": "Discover Your Signature Look Today!",
+        "product_id": 3,
+        "category_image": "https://i.ibb.co/18Q7z1m/lahenga1.jpg",
+        "category_type": "Women's Outfits",
+        "category_price": "699"
+    },
+    {
+        "category_id":16,
+        "category_name": "Embroidered Semi Stitched Lehenga Choli  (Pink)",
+        "description": "Discover Your Signature Look Today!",
+        "product_id": 4,
+        "category_image": "https://i.ibb.co/CMqCtS6/dark-blue-lehenga.jpg",
+        "category_type": "Women's Outfits",
+        "category_price": "699"
+    },
+    {
+        "category_id":17,
+        "category_name": "Embroidered Semi Stitched Lehenga Choli  (Pink)",
+        "description": "Discover Your Signature Look Today!",
+        "product_id": 4,
+        "category_image": "https://i.ibb.co/31Vk4sW/lahenga.jpg",
+        "category_type": "Women's Outfits",
+        "category_price": "699"
+    },
+    {
+        "category_id":18,
+        "category_name": "Embroidered Semi Stitched Lehenga Choli  (Pink)",
+        "description": "Discover Your Signature Look Today!",
+        "product_id": 4,
+        "category_image": "https://i.ibb.co/18Q7z1m/lahenga1.jpg",
+        "category_type": "Women's Outfits",
+        "category_price": "699"
+    },
+    {
+        "category_id":19,
+        "category_name": "Embroidered Semi Stitched Lehenga Choli  (Pink)",
+        "description": "Discover Your Signature Look Today!",
+        "product_id": 4,
+        "category_image": "https://i.ibb.co/31Vk4sW/lahenga.jpgg",
+        "category_type": "Women's Outfits",
+        "category_price": "699"
+    },
+    {
+        "category_id":20,
+        "category_name": "Embroidered Semi Stitched Lehenga Choli  (Pink)",
+        "description": "Discover Your Signature Look Today!",
+        "product_id": 5,
+        "category_image": "https://i.ibb.co/MVGhNXj/lahenga.jpg",
+        "category_type": "Women's Outfits",
+        "category_price": "699"
+    },
+    {
+        "category_id":21,
+        "category_name": "Embroidered Semi Stitched Lehenga Choli  (Pink)",
+        "description": "Discover Your Signature Look Today!",
+        "product_id": 5,
+        "category_image": "https://i.ibb.co/18Q7z1m/lahenga1.jpg",
+        "category_type": "Women's Outfits",
+        "category_price": "699"
+    },
+    {
+        "category_id":22,
+        "category_name": "Embroidered Semi Stitched Lehenga Choli  (Pink)",
+        "description": "Discover Your Signature Look Today!",
+        "product_id": 5,
+        "category_image": "https://i.ibb.co/VSdkMR3/s.jpg",
+        "category_type": "Women's Outfits",
+        "category_price": "699"
+    },
+    {
+        "category_id":23,
+        "category_name": "Embroidered Semi Stitched Lehenga Choli  (Pink)",
+        "description": "Discover Your Signature Look Today!",
+        "product_id": 5,
+        "category_image": "https://i.ibb.co/CMqCtS6/dark-blue-lehenga.jpg",
+        "category_type": "Women's Outfits",
+        "category_price": "699"
+    },
+    {
+        "category_id":24,
+        "category_name": "Embroidered Semi Stitched Lehenga Choli  (Pink)",
+        "description": "Discover Your Signature Look Today!",
+        "product_id": 5,
+        "category_image": "https://i.ibb.co/MVGhNXj/lahenga.jpg",
+        "category_type": "Women's Outfits",
+        "category_price": "699"
+    },
+    {
+        "category_id":25,
+        "category_name": "Embroidered Semi Stitched Lehenga Choli  (Pink)",
+        "description": "Discover Your Signature Look Today!",
+        "product_id": 5,
+        "category_image": "https://i.ibb.co/CMqCtS6/dark-blue-lehenga.jpg",
+        "category_type": "Women's Outfits",
+        "category_price": "699"
+    },
+    {
+        "category_id":26,
+        "category_name": "Embroidered Semi Stitched Lehenga Choli  (Pink)",
+        "description": "Discover Your Signature Look Today!",
+        "product_id": 6,
+        "category_image": "https://i.ibb.co/MVGhNXj/lahenga.jpg",
+        "category_type": "Women's Outfits",
+        "category_price": "699"
+    },
+    {
+        "category_id":27,
+        "category_name": "Embroidered Semi Stitched Lehenga Choli  (Pink)",
+        "description": "Discover Your Signature Look Today!",
+        "product_id": 6,
+        "category_image": "https://i.ibb.co/VSdkMR3/s.jpg",
+        "category_type": "Women's Outfits",
+        "category_price": "699"
+    },
+    {
+        "category_id":28,
+        "category_name": "Embroidered Semi Stitched Lehenga Choli  (Pink)",
+        "description": "Discover Your Signature Look Today!",
+        "product_id": 6,
+        "category_image": "https://i.ibb.co/MVGhNXj/lahenga.jpg",
+        "category_type": "Women's Outfits",
+        "category_price": "699"
+    },
+    {
+        "category_id":29,
+        "category_name": "Embroidered Semi Stitched Lehenga Choli  (Pink)",
+        "description": "Discover Your Signature Look Today!",
+        "product_id": 6,
+        "category_image": "https://i.ibb.co/CMqCtS6/dark-blue-lehenga.jpg",
+        "category_type": "Women's Outfits",
+        "category_price": "699"
+    },
+    {
+        "category_id":30,
+        "category_name": "Embroidered Semi Stitched Lehenga Choli  (Pink)",
+        "description": "Discover Your Signature Look Today!",
+        "product_id": 7,
+        "category_image": "https://i.ibb.co/31Vk4sW/lahenga.jpg",
+        "category_type": "Women's Outfits",
+        "category_price": "699"
+    },
+    {
+        "category_id":31,
+        "category_name": "Embroidered Semi Stitched Lehenga Choli  (Pink)",
+        "description": "Discover Your Signature Look Today!",
+        "product_id": 7,
+        "category_image": "https://i.ibb.co/VSdkMR3/s.jpg",
+        "category_type": "Women's Outfits",
+        "category_price": "699"
+    },
+    {
+        "category_id":32,
+        "category_name": "Embroidered Semi Stitched Lehenga Choli  (Pink)",
+        "description": "Discover Your Signature Look Today!",
+        "product_id": 7,
+        "category_image": "https://i.ibb.co/31Vk4sW/lahenga.jpg",
+        "category_type": "Women's Outfits",
+        "category_price": "699"
+    },
+    {
+        "category_id":33,
+        "category_name": "Embroidered Semi Stitched Lehenga Choli  (Pink)",
+        "description": "Discover Your Signature Look Today!",
+        "product_id": 7,
+        "category_image": "https://i.ibb.co/MVGhNXj/lahenga.jpg",
+        "category_type": "Women's Outfits",
+        "category_price": "699"
+    },
+    {
+        "category_id":34,
+        "category_name": "Embroidered Semi Stitched Lehenga Choli  (Pink)",
+        "description": "Discover Your Signature Look Today!",
+        "product_id": 7,
+        "category_image": "https://i.ibb.co/CMqCtS6/dark-blue-lehenga.jpg",
+        "category_type": "Women's Outfits",
+        "category_price": "699"
+    },
+    {
+        "category_id":35,
+        "category_name": "Embroidered Semi Stitched Lehenga Choli  (Pink)",
+        "description": "Discover Your Signature Look Today!",
+        "product_id": 7,
+        "category_image": "https://i.ibb.co/McWc3M7/lahega-red.jpg",
+        "category_type": "Women's Outfits",
+        "category_price": "699"
+    },
+    {
+        "category_id":36,
+        "category_name": "Embroidered Semi Stitched Lehenga Choli  (Pink)",
+        "description": "Discover Your Signature Look Today!",
+        "product_id": 8,
+        "category_image": "https://i.ibb.co/18Q7z1m/lahenga1.jpg",
+        "category_type": "Women's Outfits",
+        "category_price": "699"
+    },
+    {
+        "category_id":37,
+        "category_name": "Embroidered Semi Stitched Lehenga Choli  (Pink)",
+        "description": "Discover Your Signature Look Today!",
+        "product_id": 8,
+        "category_image": "https://i.ibb.co/WxKwPwk/lahenga.jpg",
+        "category_type": "Women's Outfits",
+        "category_price": "699"
+    },
+    {
+        "category_id":38,
+        "category_name": "Embroidered Semi Stitched Lehenga Choli  (Pink)",
+        "description": "Discover Your Signature Look Today!",
+        "product_id": 8,
+        "category_image": "https://i.ibb.co/fDQk8Gx/lehanga.jpg",
+        "category_type": "Women's Outfits",
+        "category_price": "699"
+    },
+    {
+        "category_id":39,
+        "category_name": "Embroidered Semi Stitched Lehenga Choli  (Pink)",
+        "description": "Discover Your Signature Look Today!",
+        "product_id": 8,
+        "category_image": "https://i.ibb.co/t8DCnn9/Lehenga.jpg",
+        "category_type": "Women's Outfits",
+        "category_price": "699"
+    },
+    {
+        "category_id":40,
+        "category_name": "Embroidered Semi Stitched Lehenga Choli  (Pink)",
+        "description": "Discover Your Signature Look Today!",
+        "product_id": 8,
+        "category_image": "https://i.ibb.co/rwTJZF8/lehanga.jpg",
+        "category_type": "Women's Outfits",
+        "category_price": "699"
+    },
+    {
+        "category_id":41,
+        "category_name": "Embroidered Semi Stitched Lehenga Choli  (Pink)",
+        "description": "Discover Your Signature Look Today!",
+        "product_id": 9,
+        "category_image": "https://i.ibb.co/VSdkMR3/s.jpg",
+        "category_type": "Women's Outfits",
+        "category_price": "699"
+    }
+)]

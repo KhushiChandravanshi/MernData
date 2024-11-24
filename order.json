@@ -1,0 +1,72 @@
+db.orders.insert([
+    {
+        "_id":"8t66uyt",
+        "name":"Khushi",
+        "email":"khushi@gmail.com",
+        "address":"Hno 45,Sector 1",
+        "phone":9926594223,
+        "cost":345,
+        "menuItem":[
+            4,
+            5,
+            6
+        ],
+        "status":"Pending"
+    },
+    {
+        "_id":"8t699uyt",
+        "name":"Gunjan",
+        "email":"gunjan@gmail.com",
+        "address":"Hno 45,Sector 9",
+        "phone":9926504229,
+        "cost":345,
+        "menuItem":[
+            8,
+            5,
+            6
+        ],
+        "status":"Pending"
+    },
+    {
+        "_id": "62514d69f5aec503b2e0f2aa",
+        "name": "sonu",
+        "email": "sonu@gmail.com",
+        "address": "Hno 23,Sector 1",
+        "phone": 9988768686,
+        "cost": 124,
+        "menuItem": [
+            6,
+            34,
+            23
+        ],
+        "status": "Pending"
+    },
+    {
+        "_id": "62514d77f5aec503b2e0f2ab",
+        "name": "Epshita",
+        "email": "epshita@gmail.com",
+        "address": "Hno 23,Sector 1",
+        "phone": 768768686,
+        "cost": 344,
+        "menuItem": [
+            12,
+            45,
+            21
+        ],
+        "status": "Pending"
+    },
+    {
+        "_id": "62514d8bf5aec503b2e0f2ac",
+        "name": "Ram",
+        "email": "Ram@gmail.com",
+        "address": "Hno 23,Sector 1",
+        "phone": 9787673366,
+        "cost": 431,
+        "menuItem": [
+            34,
+            26,
+            17
+        ],
+        "status": "Pending"
+    }
+])
